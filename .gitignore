@@ -235,3 +235,19 @@ Thumbs.db
 push_complete_project.bat
 push_to_new_repo.bat
 *.bat
+
+# Documentation files
+README.md
+**/README.md
+**/*.md
+!pubspec.yaml
+!analysis_options.yaml
+
+# PowerShell scripts
+*.ps1
+
+# Flutter build and cache
+**/build/
+**/.dart_tool/
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
