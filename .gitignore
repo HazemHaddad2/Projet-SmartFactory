@@ -245,9 +245,3 @@ README.md
 
 # PowerShell scripts
 *.ps1
-
-# Flutter build and cache
-**/build/
-**/.dart_tool/
-**/.flutter-plugins
-**/.flutter-plugins-dependencies
