@@ -230,3 +230,8 @@ app.*.symbols
 # OS
 .DS_Store
 Thumbs.db
+
+# Local utility scripts
+push_complete_project.bat
+push_to_new_repo.bat
+*.bat
